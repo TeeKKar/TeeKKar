@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Teek 👋
+## About Me 🙋‍♂️
+👨‍🎓 I'm currently pursuing my bachelors in Computer Engineering from George Mason University <br>
+🤔 My interests lay in low-level Software Development,DevOps engineering, and back-end web development. <br>
 
 <!--
 **TeeKKar/TeeKKar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
