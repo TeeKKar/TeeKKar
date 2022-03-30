@@ -1,4 +1,4 @@
-### Hi there, I'm Teek 👋
+# Hi there, I'm Teek 👋
 ## About Me 🙋‍♂️
 👨‍🎓 I'm currently pursuing my bachelors in Computer Engineering from George Mason University <br>
 🤔 My interests lay in low-level Software Development,DevOps engineering, and back-end web development. <br>
